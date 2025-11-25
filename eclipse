@@ -1,7 +1,6 @@
 Color -> Apperance -> Colors and Fonts -> ABAP
 Method Background 	RGB(255, 227, 198)
 Literal 		        RGB(193, 0, 97)
-Keyword 		        RGB(0, 0, 255)
 Comment			        RGB(40, 181, 75)
 Number Literal 		  RGB(202, 0, 202)
  
@@ -10,3 +9,4 @@ Text Font 		Bold
 Color -> Text Editors
 Line Spacing 		  20%
 Background Color 	RGB(255, 243, 230)
+Selection Background	        RGB(193, 0, 97)
